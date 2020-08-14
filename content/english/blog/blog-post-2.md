@@ -1,32 +1,68 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
+title: "Lockdown Diaries"
+date: 2020-05-22T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Learning From The Past. "
 # post thumbnail
-image: "images/blog/post-2.jpg"
+image: "images/blog/lockdown_diaries_2.jpg"
 # post author
-author: "John Doe"
+author: "Shweta Damle"
 # taxonomy
-categories: ["Education System"]
-tags: ["Education", "Automation"]
+categories: []
+tags: []
 # type
 type: "post"
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+While browsing through WhatsApp contacts to send a message to a group of construction workers in
+Jogeshwari I chance upon his profile picture.  It was a skyscraper where he might have been
+employed. I am forced to think about why does he keep a profile picture that is in such a contrast
+to his living realities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+* **Is owning a house like that is his aspiration?**
 
+* **Is he too ambitious in aspiring to have a home in a skyscraper on his profile picture?**
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+* **Is it his imagination of home? Will he be able to afford and keep it for his children?**
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+* **Does he really need a house like that?**
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+Yes, these are the questions activists, academics and urban planners have been grappling with for
+decades.  Especially so in the post globalisation era.  Housing programs in post globalisation era
+have been deeply embedded in the market, the provider, the Messiah of housing for the poor. This is
+where things go wrong. Land was incentivised and very slowly the land changed hands from people to
+private.  The toilers were displaced, dispossessed, an act of crime, systemic violence from the
+spaces they made livable through their labour and sweat.  The current pandemic has exposed the
+ineffectiveness of these schemes as it has not improved the quality of life for neither the
+slum-dwellers nor those who have been rehabilitated in far-flung areas. Both slums and high rise
+rehabilitation sites suffer from similar problems, high density, lack of light, ventilation and
+fresh air and lack or nonfunctional amenities, in addition, rehabilitation sites are far away from
+their livelihood. Rehabilitation site adds bonus negative marks for additional expenditure on
+maintenance, travel, and health costs, for households that have been rehabilitated expenses, have
+increased but there is no additional income.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+However, yet again we prescribe to the failed schemes. The 2 proposed relief packages for migrant workers and urban poor for their housing woes are
+attempts to revive un-liveable housing stock and a boost to the real estate sector. Affordable
+Rental Housing for migrant workers from the vacant existing stock from the government scheme. This
+vacant stock is there in almost all the cities (64) where JNNURM was implemented. Don’t we need to
+ask why -reasons for huge vacancy - in the periphery with no transport connectivity, bad
+construction, loss of livelihood, higher expenditure on maintenance.
+
+##### Why will migrant workers want to occupy these?
+For the creation of additional housing complexes for migrant workers, the government will incentivise manufacturing units, industries,
+and associations to build affordable housing complexes on their private land. Have we forgotten the SEZs, most of them have not taken off
+and have been converted into a real estate development, the areas around them have become ghost towns, most according to me will be adding up to vacant housing stock.
+
+Credit Linked Subsidy Scheme was the biggest scam in creating affordable housing stock for the income category of 6 to 18 lakhs. It has been given an extension for the next financial year, a lease of life.
+Can't we think of these -
+
+- **Land reservation within city limits for migrants and urban poor.**
+
+- **In situ rehabilitation, mixed land use for commercial, residential and rental housing.**
+
+- **Livelihood space for EWS and LIG housing.**
+
+- **Upgradation, retrofitting, provisioning of amenities.**
