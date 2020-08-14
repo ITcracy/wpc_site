@@ -1,0 +1,133 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/home_hero_image.png"
+  slider_item:
+
+    # slider item loop
+    - title : "Working People's Charter"
+      content : "Working Peoples' Charter process is an initiative to bring together all organizations working with, and organizing people dependent on the informal sector"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false 
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Imagine a world without workers"
+      content : "We envisions that every worker has a right to work and quality employment. It is working towards issuance of occupational identity cards for all informal workers, which allow them access to the social security entitlements."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
+        label : "Apply now"
+        link : "contact"
+
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/home_feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Corona Pandemic and the impact on informal labour"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "We, the representatives of workers collectives are extending support of dry ration and basic essentials, spread awareness and advocate with the government to strengthen public healthcare and economic assistance in 19 states!"
+
+    # feature item loop
+    - name : "Labour Law Reform"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Amidst the micro and macro-economic crisis, the union government has aggressively pushed the agenda of labour law reform, by stating the intention of simplifying old and complex 44 central labour legislation."
+
+    # feature item loop
+    - name : "Social Protection"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Social Protection is a commons, emerging from the democratic and participatory actions of citizens with demands for public authorities."
+
+    # feature item loop
+    - name : "Partners and Allies"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "The network has grassroots presence in more than nineteen states of India,"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "What We Do"
+  image : "images/about/home_about.jpg"
+  content : "Working Peoples’ Charter- a network of more than 150 provincial, local organizations of informal workers, was founded in 2013 to fulfil this vacuum. The Charter believes in capacity building of network's members. This will help the members wage struggles at provincial and national level. The capacity building includes understanding of laws pertaining to informal workers, including the proposed bills on wage, industrial relations, occupational health and safety and social security in the legislature. Currently, there is no such platform existing in India voicing collective concerns of informal workers. This positioning of being the first and the only one network at national level gives it a competitive advantage."
+  button:
+    enable : true
+    label : "Know more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Media Statements"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  title : "Workers of the world unite"
+  subtitle : "Click to connect with us"
+  button:
+    enable : true
+    label : "Connect with us"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/home_video.jpg"
+  title : "Covid Relief Program"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+            ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=hIq-FXXadE0"
+
+
+############################# event ################################
+event:
+  enable : false
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "60"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "50"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "1000"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Our Blogs"
+  # blog item comes from "content/**/blog" folder.
